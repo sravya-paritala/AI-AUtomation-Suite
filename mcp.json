@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "Indian Railway": {
+      "url": "https://railway-mcp.amithv.xyz/mcp"
+    },
+    "Linkedin-xxkwep": {
+      "url": "https://mcp.composio.dev/composio/server/57883d37-faaa-4310-a5e3-5df509e3caf4/mcp?include_composio_helper_actions=true&agent=cursor"
+    },
+    "gmail-1gs52u-65": {
+      "url": "https://mcp.composio.dev/partner/composio/gmail/mcp?customerId=14493b87-1aec-4099-b1f9-a795c2482283&agent=cursor"
+    },
+     "ElevenLabs": {
+          "command": "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\python.exe",
+          "args": [
+            "C:\\Users\\HP\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\elevenlabs_mcp\\server.py"
+          ],
+          "env": {
+            "ELEVENLABS_API_KEY": "{{sk_11cf5f895f42961d0903117f7f64a10f25956942c2d8b0f9}}"
+          }
+        }
+  }
+}
