@@ -17,6 +17,9 @@
           "env": {
             "ELEVENLABS_API_KEY": "{{sk_11cf5f895f42961d0903117f7f64a10f25956942c2d8b0f9}}"
           }
+        },
+        "Youtube-4u4mi7":{
+         "url" : "https://backend.composio.dev/v3/mcp/d51b949b-1512-4130-b937-489e11c750d2/mcp"
         }
   }
 }
